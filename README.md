@@ -1,6 +1,6 @@
 # HTML-e-CSS
 
- Olá desenvolvedores, nesse repositório estarei disponibilizando materiais que vao mostrar minha evolução nessas linguagens e também para ajudar a você que esta aprendendo(tentarei deixar anotações dentro dos códigos)
+ Olá desenvolvedores, nesse repositório estarei disponibilizando materiais que vao mostrar minha evolução nessas linguagens e também para ajudar a você que esta aprendendo(tentarei deixar anotações dentro dos documentos).
 
 <b>HTML:</b> <i>HyperText Markup Language</i><br>
 <b>CSS:</b> <i>Cascading Style Sheets</i> 
