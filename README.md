@@ -8,7 +8,9 @@
 <h3>Dicas iniciais:</h3>
  . É muito importante que todos os códigos que você desenvolver tenha umas anotações para que no futuro, caso precise alterar, você se achará rapido.<br>
  . Para fazer uma anotação dentro de um documento html utilize: &lt!--
+ 
+ <p>OBS: o que me ajudou a fazer esse repositório foi as aulas que tive no <b>curso em video</b>(canal do yt)</p>
 
  <h2>Pasta 1-5</h2>
- . Estará meus primeiros codigos junto as aulas do <b>curso em video</b>(canal do yt).
+ . Estará meus primeiros codigos em HTML.
  .
